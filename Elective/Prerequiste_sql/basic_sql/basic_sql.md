@@ -50,6 +50,11 @@ Some of the most popular databases include:
 - CREATE TABLE is a statement that creates a new table in a database.
 - DROP TABLE is a statement that removes a table in a database.
 - SELECT allows you to read data and display it. This is called a query.
+- FROM specifies from which table(s) you want to select the columns. Notice the columns need to exist in this table. 
 The SELECT statement is the common statement used by analysts<br />
   
-  
+ If you want to be provided with the data from all columns in the table, you use "*", like so:
+
+SELECT * FROM orders
+Note that using SELECT does not create a new table with these columns in the database, it just provides the data to you as the results, or output, of this command.
+
