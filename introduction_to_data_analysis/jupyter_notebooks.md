@@ -51,7 +51,7 @@ Bold text uses two symbols, **aardvark** or __aardvark__ looks like aardvark.
 Either asterisks or underscores are fine as long as you use the same symbol on both sides of the text.
 
 ### Creating a Slideshow
-#### unning the slideshow
+#### Running the slideshow
 To create the slideshow from the notebook file, you'll need to use nbconvert:
 
     jupyter nbconvert notebook.ipynb --to slides
