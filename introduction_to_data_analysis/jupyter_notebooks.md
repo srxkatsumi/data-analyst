@@ -30,3 +30,33 @@ Next, enter the following command in your terminal/Anaconda prompt
 Shutting down Jupyter Notebook
 
 You can shutdown the entire server by pressing control + C twice in the terminal. Again, this will immediately shutdown all the running notebooks, so make sure your work is saved!
+
+
+## Markdown Cells
+As with code cells, you press Shift + Enter or Control + Enter to run the Markdown cell, where it will render the Markdown to formatted text. 
+
+### Headers 
+     # Header 1
+     ## Header 2
+     ### Header 3
+### Links
+Linking in Markdown is done by enclosing text in square brackets and the URL in parentheses, like this
+     [Linkedin Victoria](https://www.linkedin.com/in/victoriagcosta/)
+     
+### Emphasis
+You can add emphasis through bold or italics with asterisks or underscores (* or _). For italics, wrap the text in one asterisk or underscore, _gelato_ or *gelato* renders as gelato.
+
+Bold text uses two symbols, **aardvark** or __aardvark__ looks like aardvark.
+
+Either asterisks or underscores are fine as long as you use the same symbol on both sides of the text.
+
+### Creating a Slideshow
+#### unning the slideshow
+To create the slideshow from the notebook file, you'll need to use nbconvert:
+
+    jupyter nbconvert notebook.ipynb --to slides
+This just converts the notebook to the necessary files for the slideshow, but you need to serve it with an HTTP server to actually see the presentation.
+
+To convert it and immediately see it, use
+
+     jupyter nbconvert notebook.ipynb --to slides --post serve
