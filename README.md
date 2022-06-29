@@ -4,10 +4,10 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 ### Content covered:<br />
 
-- [ ] Data analysis with Python; <br />
-- [ ] Probability and statistics;<br />
-- [ ] Data Wrongling;<br />
-- [ ] Data Visualization.<br />
+- [ ] Introduction to Data analysis; <br />
+- [ ] Practical Statistics;<br />
+- [ ] Data Wrangling;<br />
+- [ ] Data Visualization. <br />
 
 
 ### Projects
