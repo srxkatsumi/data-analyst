@@ -1,13 +1,17 @@
 # Data Analyst
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)<br />
+
 Data Analyst Course by Udacity https://www.udacity.com/course/data-analyst-nanodegree--nd002<br />
 Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 ### Content covered:<br />
 
-- [ ] Introduction to Data analysis; <br />
-- [ ] Practical Statistics;<br />
-- [ ] Data Wrangling;<br />
-- [ ] Data Visualization. <br />
+- [x] Welcome to the Nanodegree program! ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
+- [ ] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/58)<br />
+- [ ] Practical Statistics;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Data Wrangling;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Data Visualization. ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 
 
 ### Projects
@@ -19,8 +23,8 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 ### Elective:<br />
 
-- [ ] Machine Learning; <br />
-- [x] Matrix Math and NumPy Refresher; <br />
-- [ ] SQL; <br />
-- [ ] Python;<br />
-- [ ] Git & GitHub; <br />
+- [ ] Machine Learning;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [x] Matrix Math and NumPy Refresher; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
+- [ ] SQL; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)<br />
+- [ ] Python;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Git & GitHub; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
