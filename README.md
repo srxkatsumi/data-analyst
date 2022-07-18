@@ -8,7 +8,7 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 ### Content covered:<br />
 
 - [x] Welcome to the Nanodegree program! ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
-- [ ] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/58)<br />
+- [ ] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)<br />
 - [ ] Practical Statistics;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Data Wrangling;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Data Visualization. ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
