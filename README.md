@@ -30,5 +30,5 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 - [ ] Git & GitHub; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 
 ##### Optional:<br />
-- [ ] Improve tour linkedin profile;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)<br />
+- [x] Improve tour linkedin profile;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 - [ ] Otimize your GitHub profile; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
