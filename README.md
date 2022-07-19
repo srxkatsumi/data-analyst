@@ -9,8 +9,8 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 - [x] Welcome to the Nanodegree program! ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 - [ ] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)<br />
-- [ ] Practical Statistics;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
-- [ ] Data Wrangling;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Practical Statistics; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Data Wrangling; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Data Visualization. ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 
 
@@ -23,12 +23,12 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 ### Elective:<br />
 
-- [ ] Machine Learning;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Machine Learning; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [x] Matrix Math and NumPy Refresher; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 - [ ] SQL; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/15)<br />
-- [ ] Python;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
+- [ ] Python; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Git & GitHub; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 
 ##### Optional:<br />
-- [x] Improve tour linkedin profile;![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
+- [x] Improve tour linkedin profile; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 - [x] Otimize your GitHub profile; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
