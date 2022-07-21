@@ -1,6 +1,6 @@
-À
+√ã
 
-ÀÇÅ
+√ã‚Äö¬Å
 Fuel Economy Guide Database files.
 
 The ZIP'd versions of these files are named ??DATA.ZIP (e.g., 83DATA.ZIP)
@@ -44,7 +44,7 @@ digit class code in the files.
 
 
 DEFINITION OF REPORT ABBREVIATIONS
-åAn explanation of abbreviations used in the Fuel Economy Guide 
+≈íAn explanation of abbreviations used in the Fuel Economy Guide 
 and Test Car List reports published by EPA follows:
 
 
@@ -88,7 +88,7 @@ Transmission Descriptors  (Guide and Test Car List)
     First Character --               OD  (Overdrive Code)
          M -- Manual                      1 -- No gear ratio < 1.0
          A -- Automatic                   2 -- High gear ratio < 1.0
-         L -- Lockup/automaticå         S -- Semiautomatic
+         L -- Lockup/automatic≈í         S -- Semiautomatic
 
     Second Character -- Number of forward speeds
          V -- Fully variable gear ratios
@@ -132,9 +132,9 @@ Fuel System (Guide and Test Car List)
 Fuel Type (Guide)
 
     P    -- Premium unleaded gasoline
-    R    -- Regular unleaded gasolineå    D    -- Diesel fuel
-    C    · · Compressed natural gas
-    E    · · Ethanol
+    R    -- Regular unleaded gasoline≈í    D    -- Diesel fuel
+    C    √° √° Compressed natural gas
+    E    √° √° Ethanol
 
 Control System (Test Car List)
 
@@ -176,7 +176,7 @@ the model year.  Following are the database formats for:
 
 Database formats for 1998 and later Fuel Economy Guide Database files.
 The comma-delimited format files are named ??GUIDE6.CSV and the Excel spreadsheet 
-format files are named ??GUIDE6.XLSåclass     - vehicle class name
+format files are named ??GUIDE6.XLS≈íclass     - vehicle class name
 manufacturer  -  manufacturer or division name
 carline name   - model name
 displ    - displacement in liters
@@ -211,8 +211,8 @@ hlv       - luggage interior volume of a hatchback version
 fcost    - annual fuel cost based on estimated combined mpg
 eng dscr - an engine related descriptor to identify a model from another similar model
 trans dscr - a transmission related descriptor to identify a model from another similar model
-vpc       © valves per cylinder (for 2000 or later only)
-cls         © vehicle class code(1=2©seater, 2=minicompact, etc) (for 2000 or later only)
+vpc       ¬© valves per cylinder (for 2000 or later only)
+cls         ¬© vehicle class code(1=2¬©seater, 2=minicompact, etc) (for 2000 or later only)
 
 Passenger/luggage interior volume is shown for available body types only.
 
@@ -220,7 +220,7 @@ Interior volume dimensions are not required for Two Seater passenger cars or any
 classified as truck which includes vans, pickups, special purpose vehicles, minivan and sport
 utility vehicles.
 
-         =================================================================åDatabase format for 1985-1997 Fuel Economy Guide Database files.
+         =================================================================≈íDatabase format for 1985-1997 Fuel Economy Guide Database files.
 The ZIP'd versions of these files are named ??MFGUI.ZIP, e.g., 93MFGUI.ZIP.
 
 :
@@ -264,7 +264,7 @@ C=CALIFORNIA
      1       5     CARLINE NAME     11      28    A      0     CARLINE NAME
      1       6     DISP CUB IN      39       4    I      0     DISP CUBIC INCHES
      1       7     FUEL SYSTEM      43       2    A      0     FUEL SYSTEM: 'FI' FOR FUEL
-INJECTION, 2-DIGIT INTEGER VALUEå                                                                            FOR #OF VENTURIES IF CARBURETOR
+INJECTION, 2-DIGIT INTEGER VALUE≈í                                                                            FOR #OF VENTURIES IF CARBURETOR
 SYSTEM.
      1       8     MODEL TRANS      45       6    A      0     TRANSMISSION TYPE
      1       9     NO CYC           51       2    I      0     NUMBER OF ENGINE CYLINDERS
@@ -308,7 +308,7 @@ TYPE APPLIES IT WILL TAKE THE
 INTERIOR VOLUME AND
                                                                LL=LUGGAGE INTERIOR VOLUME.
      1      31     BODY TYPE HBK   211      10    A      0     BODY TYPE HBK    - IF THE BODY
-TYPE APPLIES IT WILL TAKE THEå                                                               FORM 'HBK-PPP/LL' WHERE PPP=PASSENGER
+TYPE APPLIES IT WILL TAKE THE≈í                                                               FORM 'HBK-PPP/LL' WHERE PPP=PASSENGER
 INTERIOR VOLUME AND
                                                                LL=LUGGAGE INTERIOR VOLUME.
      1      32     PUERTO RICO     221       1    A      0     '*' IF FOR PUERTO RICO SALES
@@ -352,7 +352,7 @@ NUMBER:   1      *
 ******************************************************************************
 **************************************************
 **
-                                                                * Fuel Economy Guide data base for 1984 model yearå******************************************************************************
+                                                                * Fuel Economy Guide data base for 1984 model year≈í******************************************************************************
 **************************************************
 **
 0 RECORD  FIELD       FIELD     STARTING               #DEC.
@@ -396,7 +396,7 @@ col 148, in I5
      1      23     ENGINE DESC1    161      10    A      0     ENGINE DESCRIPTION 1
      1      24     ENGINE DESC2    171      10    A      0     ENGINE DESCRIPTION 2
      1      25     FILLER          181      10    H      0     NOT USED
-     1      26     BODY TYPE 2D    191      10    A      0     BODY TYPE 2 DOOR - IF THE BODYåTYPE APPLIES IT WILL TAKE THE
+     1      26     BODY TYPE 2D    191      10    A      0     BODY TYPE 2 DOOR - IF THE BODY≈íTYPE APPLIES IT WILL TAKE THE
                                                                FORM '2DR-PPP/LL' WHERE PPP=PASSENGER
 INTERIOR VOLUME AND
                                                                LL=LUGGAGE INTERIOR VOLUME.
@@ -440,7 +440,7 @@ NUMBER:   1      *
                                                      *  83CG.DAT, 83FG.DAT  *
                                                      ************************
 0                                                                 FILE DESCRIPTION
-å******************************************************************************
+≈í******************************************************************************
 **************************************************
 **
                                                                 * FILE PURPOSE:  FUEL ECONOMY GUIDE DATA
@@ -484,7 +484,7 @@ MANUFACTURER (PARTICULAR MANUFACTURER
 AND THE LAST TWO DIGITS
                                                                REPRESENT AN ARBITRARY NUMBER ASSIGNED
 TO A CARLINE.  INFORMATION
-                                                               RELATING TO A CARLINE CODE CAN BEåOBTAINED FROM CARLINE DATA FILE.
+                                                               RELATING TO A CARLINE CODE CAN BE≈íOBTAINED FROM CARLINE DATA FILE.
      1       8     FILLER           16       3    H      0     NOT USED
      1       9     CARLINE-CLAS     19       2    I      0     CARLINE CLASS CODE
 REPRESENTING TWO-SEATER, COMPACT, MID-SIZE, ETC.,
@@ -528,7 +528,7 @@ ECONOMY CALCULATION
 1 & 17=LEADED GASOLINE,
                                                                               9=DIESEL
      1      29     FILLER           92       3    H      0     NOT USED
-     1      30     SALES-MTOTC      95       6    I      0     MODEL SALES EXCLUDING THOSEåWITH SUPPRESSION CODE 2 OR 9
+     1      30     SALES-MTOTC      95       6    I      0     MODEL SALES EXCLUDING THOSE≈íWITH SUPPRESSION CODE 2 OR 9
                                                                ERASED/BLANKED IF FOR PUBLIC ACCESS
      1      31     FILLER          101      15    H      0     NOT USED
      1      32     CARLINE-NAME    116      28    A      0     CARLINE NAME DECODED FROM
