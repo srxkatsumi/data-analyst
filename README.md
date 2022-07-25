@@ -25,7 +25,7 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 - [ ] Machine Learning; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [x] Matrix Math and NumPy Refresher; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
-- [ ] SQL; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/28)<br />
+- [ ] SQL; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/42)<br />
 - [ ] Python; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Git & GitHub; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 
