@@ -55,4 +55,4 @@ For example, if we want to pull only the account name and the dates in which tha
 
 ### Entity Relationship Diagrams
 
-![alt text](http://url/to/img.png](https://video.udacity-data.com/topher/2017/October/59e946e7_erd/erd.png)
+![alt text](https://video.udacity-data.com/topher/2017/October/59e946e7_erd/erd.png)
