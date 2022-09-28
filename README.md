@@ -42,7 +42,7 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 - [ ] Qual é o seu problema? Para resolver seu problemas mais difíceis, mude os problemas que você resolve by Thomas Wedell Wedellborg ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)<br />
 
-- [ ] Inteligência artificial a nosso favor by Stuart Russel ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/45)<br />
+- [ ] Inteligência artificial a nosso favor by Stuart Russell ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/32)<br />
 
 - [ ] Data Science do zero: Primeiras regras com Python by Joel Grus ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/26)<br />
 
