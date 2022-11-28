@@ -8,7 +8,7 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 ### Content covered:<br />
 
 - [x] Welcome to the Nanodegree program! ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
-- [X] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/99)<br />
+- [X] Introduction to Data analysis; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 - [ ] Practical Statistics; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)<br />
 - [ ] Data Wrangling; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
 - [ ] Data Visualization. ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)<br />
@@ -40,7 +40,7 @@ Instructors: Mat Leonard, Juno Lee, Josh Bernhard and Mike Yi <br />
 
 - [X] Storytelling com dados by Cole Nussbaumer Knaflic ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)<br />
 
-- [ ] Qual é o seu problema? Para resolver seu problemas mais difíceis, mude os problemas que você resolve by Thomas Wedell Wedellborg ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)<br />
+- [ ] Qual é o seu problema? Para resolver seu problemas mais difíceis, mude os problemas que você resolve by Thomas Wedell Wedellborg !![](https://us-central1-progress-markdown.cloudfunctions.net/progress/65)<br />
 
 - [ ] Inteligência artificial a nosso favor by Stuart Russell ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/75)<br />
 
